@@ -1,0 +1,6 @@
+[console_scripts]
+pyftinspect = fontTools.inspect:main
+pyftmerge = fontTools.merge:main
+pyftsubset = fontTools.subset:main
+ttx = fontTools.ttx:main
+
