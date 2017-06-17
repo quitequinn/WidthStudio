@@ -1,2 +1,0 @@
-#include "../../../config/xcconfig/release.xcconfig"
-HEADER_SEARCH_PATHS =  $(SDKROOT)/usr/include  ../../../../api/** ../../../../resource/**

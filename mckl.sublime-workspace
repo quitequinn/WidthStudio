@@ -1,0 +1,2477 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Bo",
+				"Boolean"
+			],
+			[
+				"align",
+				"alignoptions	(typeTester.js)"
+			],
+			[
+				"fir",
+				"firstWeightValue"
+			],
+			[
+				"firs",
+				"firstWeightPosition"
+			],
+			[
+				"we",
+				"weight"
+			],
+			[
+				"wei",
+				"weightselection"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"color-gray",
+				"color-gray-dark"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"let",
+				"letter-spacing"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"white",
+				"white-space"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"opca",
+				"opacity"
+			],
+			[
+				"w",
+				"weight"
+			],
+			[
+				"inl",
+				"include"
+			],
+			[
+				"reply",
+				"reply_bubble"
+			],
+			[
+				"border",
+				"border-image"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"sec",
+				"section_disc"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"first",
+				"first-of-type"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"visi",
+				"visibility"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"windo",
+				"windowTop"
+			],
+			[
+				"quote",
+				"quote_container"
+			],
+			[
+				"img",
+				"imageBackground"
+			],
+			[
+				"section",
+				"sectionsWrapper"
+			],
+			[
+				"visib",
+				"visible"
+			],
+			[
+				"si",
+				"sidebar_menu"
+			],
+			[
+				"vert",
+				"vertical-align"
+			],
+			[
+				"sans",
+				"sans-serif"
+			],
+			[
+				"view",
+				"view-on"
+			],
+			[
+				"next",
+				"nextpage"
+			],
+			[
+				"cap",
+				"capitalize"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"pr",
+				"profile"
+			],
+			[
+				"colo",
+				"color-white"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"cent",
+				"center"
+			],
+			[
+				"footer",
+				"footerNavWrap"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"word",
+				"word_cloud_container"
+			],
+			[
+				"before",
+				"before_flat"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"tog",
+				"toggle"
+			],
+			[
+				"not",
+				"notifications"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"profile",
+				"profile_munu"
+			],
+			[
+				"func",
+				"function(){var"
+			],
+			[
+				"feat",
+				"feature"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"tabl",
+				"table"
+			],
+			[
+				"tran",
+				"transparentize"
+			],
+			[
+				"table-c",
+				"table-cell"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"small",
+				"smallcaps"
+			],
+			[
+				"video",
+				"video_container"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"toggle",
+				"toggleClass"
+			],
+			[
+				"close",
+				"closest"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"center",
+				"centerWrap"
+			],
+			[
+				"game",
+				"gameHeight"
+			],
+			[
+				"a_slider",
+				"a_slider_pairs"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"dar",
+				"darken"
+			],
+			[
+				"transio",
+				"transition"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"gl",
+				"glyph_wordmark"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"inlin",
+				"inline"
+			],
+			[
+				"acco",
+				"account_menu"
+			],
+			[
+				"true",
+				"true-black"
+			],
+			[
+				"last",
+				"last-of-type"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"color",
+				"color-white"
+			],
+			[
+				"col",
+				"color-black"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"ar",
+				"article	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "MCKL.js",
+			"settings":
+			{
+				"buffer_size": 2741,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/main.js",
+			"settings":
+			{
+				"buffer_size": 1968,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/User.js",
+			"settings":
+			{
+				"buffer_size": 2286,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/FAQ.js",
+			"settings":
+			{
+				"buffer_size": 824,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 2669,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Jeremys-MBP-4:MCKL jeremy$ nodemon MCKL\n2 Jul 14:36:26 - [nodemon] v1.3.7\n2 Jul 14:36:26 - [nodemon] to restart at any time, enter `rs`\n2 Jul 14:36:26 - [nodemon] watching: *.*\n2 Jul 14:36:26 - [nodemon] starting `node MCKL keystone.js`\nmodule.js:338\n    throw err;\n          ^\nError: Cannot find module 'merge-descriptors'\n    at Function.Module._resolveFilename (module.js:336:15)\n    at Function.Module._load (module.js:278:25)\n    at Module.require (module.js:365:17)\n    at require (module.js:384:17)\n    at Object.<anonymous> (/Users/jeremy/Documents/Dropbox/MCKL/MCKL/node_modules/express/lib/express.js:16:13)\n    at Module._compile (module.js:460:26)\n    at Object.Module._extensions..js (module.js:478:10)\n    at Module.load (module.js:355:32)\n    at Function.Module._load (module.js:310:12)\n    at Module.require (module.js:365:17)\n2 Jul 14:36:26 - [nodemon] app crashed - waiting for file changes before starting...",
+			"settings":
+			{
+				"buffer_size": 927,
+				"line_ending": "Unix",
+				"name": "Jeremys-MBP-4:MCKL jeremy$ nodemon MCKL"
+			}
+		},
+		{
+			"contents": "'use strict';\n\nvar keystone = require('keystone'),\n  _ = require('underscore'),\n  Types = keystone.Field.Types;\n\nvar Page = new keystone.List('Page', {\n  map: { name: 'title' },\n  autokey: { path: 'slug', from: 'title', unique: true }\n});\n\nfunction updateNavigation() {\n  Page.model.find({\n    state: 'published'\n  }, function(err, pages) {\n    console.log(pages.length);\n    pages.forEach(function(page, i) {\n      var navLink = _.findWhere(keystone.get('navigation'), {\n        key: page.parent\n      });\n      if (i === 0) navLink.children = [];\n      navLink.children.push({\n        label: page.title,\n        key: page.slug,\n        href: '/' + page.parent + '/' + page.slug\n      });\n    });\n  });\n}\n\nPage.add({\n  title: { type: String, required: true },\n  slug: { type: String, index: true },\n  state: { type: Types.Select, options: 'draft, published, archived', default: 'draft', index: true },\n  author: { type: Types.Relationship, ref: 'User', index: true },\n  publishedDate: { type: Types.Date, index: true },\n  parent: { type: Types.Select, options: _.pluck(keystone.get('navigation'), 'key').join(','), required: true, default: keystone.get('navigation')[0].key},\n  content: {\n    html: { type: Types.Html, wysiwyg: true, height: 600 }\n  },\n  categories: { type: Types.Relationship, ref: 'PageCategory', many: true }\n});\n\nPage.defaultColumns = 'title, parent|10%, state|10%, author|10%, publishedDate|20%';\n\n// Update navigation on page save\nPage.schema.post('save', function () {\n  console.log('Save Post');\n  updateNavigation();\n});\n\nPage.register();\n\n// Init navigation\nupdateNavigation();",
+			"file": "models/pages.js",
+			"file_size": 0,
+			"file_write_time": 130802665100000000,
+			"settings":
+			{
+				"buffer_size": 1605,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/Enquiry.js",
+			"settings":
+			{
+				"buffer_size": 1458,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 645 files for \"enquiry\"\n\n/Users/qkeave/Desktop/WEB/Keystone/mckl/models/Enquiry.js:\n    3  \n    4  /**\n    5:  * Enquiry Model\n    6   * =============\n    7   */\n    8  \n    9: var Enquiry = new keystone.List('Enquiry', {\n   10  	nocreate: true,\n   11  	noedit: true\n   12  });\n   13  \n   14: Enquiry.add({\n   15  	name: { type: Types.Name, required: true },\n   16  	email: { type: Types.Email, required: true },\n   17  	phone: { type: String },\n   18: 	enquiryType: { type: Types.Select, options: [\n   19  		{ value: 'message', label: 'Just leaving a message' },\n   20  		{ value: 'question', label: 'I\\'ve got a question' },\n   ..\n   25  });\n   26  \n   27: Enquiry.schema.pre('save', function(next) {\n   28  	this.wasNew = this.isNew;\n   29  	next();\n   30  });\n   31  \n   32: Enquiry.schema.post('save', function() {\n   33  	if (this.wasNew) {\n   34  		this.sendNotificationEmail();\n   ..\n   36  });\n   37  \n   38: Enquiry.schema.methods.sendNotificationEmail = function(callback) {\n   39  	\n   40  	if ('function' !== typeof callback) {\n   ..\n   42  	}\n   43  	\n   44: 	var enquiry = this;\n   45  	\n   46  	keystone.list('User').model.find().where('isAdmin', true).exec(function(err, admins) {\n   ..\n   48  		if (err) return callback(err);\n   49  		\n   50: 		new keystone.Email('enquiry-notification').send({\n   51  			to: admins,\n   52  			from: {\n   ..\n   54  				email: 'contact@mckl.com'\n   55  			},\n   56: 			subject: 'New Enquiry for MCKL',\n   57: 			enquiry: enquiry\n   58  		}, callback);\n   59  		\n   ..\n   62  };\n   63  \n   64: Enquiry.defaultSort = '-createdAt';\n   65: Enquiry.defaultColumns = 'name, email, enquiryType, createdAt';\n   66: Enquiry.register();\n   67  \n\n/Users/qkeave/Desktop/WEB/Keystone/mckl/routes/emails.js:\n   16  module.exports = {\n   17  	\n   18: 	/** New Enquiry Notifications */\n   19  	\n   20: 	'enquiry-notification': function(req, res, callback) {\n   21  		\n   22: 		// To test enquiry notifications we create a dummy enquiry that\n   23  		// is not saved to the database, but passed to the template.\n   24  		\n   25: 		var Enquiry = keystone.list('Enquiry');\n   26  		\n   27: 		var newEnquiry = new Enquiry.model({\n   28  			name: { first: 'Test', last: 'User' },\n   29  			email: 'contact@mckl.com',\n   30  			phone: '+61 2 1234 5678',\n   31: 			enquiryType: 'message',\n   32: 			message: { md: 'Nice enquiry notification.' }\n   33  		});\n   34  		\n   35  		callback(null, {\n   36  			admin: 'Admin User',\n   37: 			enquiry: newEnquiry,\n   38: 			enquiry_url: '/keystone/enquiries/'\n   39  		});\n   40  		\n\n/Users/qkeave/Desktop/WEB/Keystone/mckl/routes/views/contact.js:\n    1  var keystone = require('keystone'),\n    2: 	Enquiry = keystone.list('Enquiry');\n    3  \n    4  exports = module.exports = function(req, res) {\n    .\n    9  	// Set locals\n   10  	locals.section = 'contact';\n   11: 	locals.enquiryTypes = Enquiry.fields.enquiryType.ops;\n   12  	locals.formData = req.body || {};\n   13  	locals.validationErrors = {};\n   14: 	locals.enquirySubmitted = false;\n   15  	\n   16: 	// On POST requests, add the Enquiry item to the database\n   17  	view.on('post', { action: 'contact' }, function(next) {\n   18  		\n   19: 		var newEnquiry = new Enquiry.model(),\n   20: 			updater = newEnquiry.getUpdateHandler(req);\n   21  		\n   22  		updater.process(req.body, {\n   23  			flashErrors: true,\n   24: 			fields: 'name, email, phone, enquiryType, message',\n   25: 			errorMessage: 'There was a problem submitting your enquiry:'\n   26  		}, function(err) {\n   27  			if (err) {\n   28  				locals.validationErrors = err.errors;\n   29  			} else {\n   30: 				locals.enquirySubmitted = true;\n   31  			}\n   32  			next();\n\n/Users/qkeave/Desktop/WEB/Keystone/mckl/templates/emails/enquiry-notification.jade:\n    3  block body-contents\n    4  	h1 Hi *|first_name|*,\n    5: 	p.text-larger An enquiry was just submitted to #{brand}:\n    6: 	if enquiry.name.full || enquiry.email\n    7  		p.text-larger From \n    8: 			if enquiry.name.full\n    9: 				| <strong>#{enquiry.name.full}</strong>\n   10: 			if enquiry.name.full && enquiry.email\n   11  				|  (\n   12: 			if enquiry.email\n   13: 				| <a href=\"mailto:#{enquiry.email}\">#{enquiry.email}</a>\n   14: 			if enquiry.name.full && enquiry.email\n   15  				| )\n   16: 	if enquiry.phone\n   17: 		p.text-larger Phone: #{enquiry.phone}\n   18: 	if enquiry.enquiryType\n   19: 		p.text-larger #{enquiry._.enquiryType.format()}\n   20: 	if enquiry.message\n   21: 		.text-larger !{enquiry.message.html}\n   22: 	p.text-muted Sent #{enquiry._.createdAt.format()}\n   23  	p &nbsp;\n   24: 	+button({ url: '/keystone/enquiries/' + enquiry.id, label: 'Open Keystone' })\n   25  \n\n/Users/qkeave/Desktop/WEB/Keystone/mckl/templates/views/contact.jade:\n    7  block content\n    8  	.container\n    9: 		if enquirySubmitted\n   10  			h3 Thanks for getting in touch.\n   11  		else\n   ..\n   22  						label Phone\n   23  						input(type='text', name='phone', value=formData.phone, placeholder='(optional)').form-control\n   24: 					.form-group(class=validationErrors.enquiryType ? 'has-error' : null)\n   25  						label What are you contacting us about?\n   26: 						select(name='enquiryType').form-control\n   27  							option(value='') (select one)\n   28: 							each type in enquiryTypes\n   29: 								option(value=type.value, selected=formData.enquiryType == type.value)= type.label\n   30  					.form-group(class=validationErrors.message ? 'has-error' : null)\n   31  						label Message\n\n70 matches across 5 files\n\n\nSearching 646 files for \"'merge-descriptors'\"\n\n<untitled 1027>:\n    7      throw err;\n    8            ^\n    9: Error: Cannot find module 'merge-descriptors'\n   10      at Function.Module._resolveFilename (module.js:336:15)\n   11      at Function.Module._load (module.js:278:25)\n\n1 match in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 5795,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "routes/emails.js",
+			"settings":
+			{
+				"buffer_size": 1071,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/Logo.js",
+			"settings":
+			{
+				"buffer_size": 854,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/News.js",
+			"settings":
+			{
+				"buffer_size": 929,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/NewsCategory.js",
+			"settings":
+			{
+				"buffer_size": 358,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"space",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"brog",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/models",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/node_modules",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/templates"
+	],
+	"file_history":
+	[
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/public/src/sass/site.scss",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/templates/views/news.jade",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/routes/views/news.js",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/templates/views/fonts.jade",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/templates/partials/header.jade",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/routes/views/post.js",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/routes/middleware.js",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/routes/index.js",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/mckl.sublime-project",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/sublime-project.json",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/routes/views/faq.js",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/templates/layouts/default.jade",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/templates/views/index.jade",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/templates/views/faq.jade",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/templates/views/about.jade",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/templates/views/partials/header.jade",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/.gitignore",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/routes/emails.js",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/package.json",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/gulpfile.js",
+		"/Users/qkeave/Desktop/WEB/Keystone/mckl/public/src/sass/style.scss",
+		"/Users/qkeave/Desktop/WEB/Keystone/test/package.json",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/menu.php",
+		"/Users/qkeave/Desktop/WEB/TypeTester_TDF/src/sass/style.scss",
+		"/Users/qkeave/Desktop/WEB/TypeTester_TDF/index.html",
+		"/Users/qkeave/Desktop/WEB/TypeTester_TDF/LICENSE.html",
+		"/Users/qkeave/Desktop/WEB/TypeTester_TDF/Gruntfile.js",
+		"/Users/qkeave/Desktop/WEB/TypeTester_TDF/package.json",
+		"/Users/qkeave/Desktop/WEB/decoymagazine.ca/decoy Save",
+		"/Users/qkeave/Desktop/WEB/TypeTester_TDF/build/js/typeTester.js",
+		"/Users/qkeave/Library/Caches/Cleanup At Startup/Transmit/AFD10306-E55D-42D9-9431-4AFFBAE65761/PortSer.css",
+		"/Users/qkeave/Library/Caches/Cleanup At Startup/Transmit/804236FE-2BDA-47E0-931A-6F3743F36D0E/PortSer.css",
+		"/Users/qkeave/Library/Caches/Cleanup At Startup/Transmit/B91D561A-CF02-423A-9062-9433B3F80FF7/single-series.php",
+		"/Users/qkeave/Library/Caches/Cleanup At Startup/Transmit/C21B54DB-A5FE-4BF4-86BD-7520B0DE1058/functions.php",
+		"/Users/qkeave/Library/Caches/Cleanup At Startup/Transmit/ECC737FE-3ECF-4B9F-85ED-8CA35A74A269/PortSer.css",
+		"/Users/qkeave/Library/Caches/Cleanup At Startup/Transmit/112F94F7-86FB-4336-B7FD-49750FC9080E/single_template.php",
+		"/Users/qkeave/Library/Caches/Cleanup At Startup/Transmit/AAE2011E-0E9E-4194-80AB-867C011621E7/single-portfolio-series.php",
+		"/Users/qkeave/Library/Caches/Cleanup At Startup/Transmit/F8717D59-DC14-4AE3-B415-D38F63AA15D1/single-portfolio-series.php",
+		"/Users/qkeave/Library/Caches/Cleanup At Startup/Transmit/6ABB9EE3-8D4F-44E7-907C-FA17543E6C3E/functions.php",
+		"/Users/qkeave/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/qkeave/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/src/sass/components/_profile.scss",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/src/sass/components/_comments.scss",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/src/sass/components/_global.scss",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/html-templates/inline-comments.html",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/html-templates/paragraph.html",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/build/js/sbkh-app.js",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/html-templates/h3_contradiction.html",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/functions.php",
+		"/Users/qkeave/Desktop/WEB/decoymagazine.ca/wp-config.php",
+		"/Users/qkeave/Library/Caches/Cleanup At Startup/Transmit/9E5563B0-E05F-48BA-846B-274915AA2939/wp-config.php",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/src/sass/_config.scss",
+		"/Users/qkeave/Desktop/WEB/MCKLtest/app.js",
+		"/Users/qkeave/Desktop/WEB/TDF/TDF_NEW_Type Tester/ATC Timberline.css",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/public/src/sass/components/_global.scss",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/public/src/sass/components/_overrides.scss",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/public/css/style.css",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/public/js/lib/jqueryUI.min.js",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/public/src/sass/components/_typography.scss",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/public/src/sass/utils/_helper_mixins.scss",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/views/partials/footer.jade",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/public/js/application.js",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/node_modules/yui/content-editable/content-editable.js",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/node_modules/yui/content-editable/content-editable-debug.js",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/views/partials/header.jade",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/views/home.jade",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/views/layout.jade",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/public/src/sass/_config.scss",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/public/src/sass/vendor/bootstrap/_variables.scss",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/views/contact.jade",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/views/faq.jade",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/views/account/forgot.jade",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/views/account/login.jade",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/views/about.jade",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/views/account/profile.jade",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/views/account/reset.jade",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/views/account/signup.jade",
+		"/Users/qkeave/Desktop/:: Font Feature List",
+		"/Users/qkeave/Desktop/WEB/TDF/TDF_NEW_Type Tester/src/sass/_config.scss",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/public/src/sass/partials/_tweetSpec.scss",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/app.js",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/controllers/fonts.js",
+		"/Users/qkeave/Desktop/Screen Shot 2015-05-22 at 11.41.32 PM.jpg",
+		"/Users/qkeave/Desktop/WEB/TDF/TDF_NEW_Type Tester/index.html",
+		"/Users/qkeave/Desktop/WEB/TDF/TDF_NEW_Type Tester/src/sass/style.scss",
+		"/Users/qkeave/Desktop/WEB/TDF/TDF_NEW_Type Tester/vendor/rangeslider/rangeslider.js",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/build/img/imgIcons/bookmark_black_active.svg",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/build/img/imgIcons/bookmark_black.svg",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/build/img/imgIcons/bookmark_comment.svg",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/build/img/imgIcons/bookmark_comment_active.svg",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/build/img/imgIcons/bookmark_comment_white.svg",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/build/img/imgIcons/bookmark_comment_white_active.svg",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/build/img/imgIcons/bookmark_white.svg",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/build/img/imgIcons/bookmark_white_active.svg",
+		"/Users/qkeave/Downloads/baybay.html",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/src/sass/components/_dropin.scss",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/src/sass/components/_typography.scss",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/build/img/imgIcons/add_comment_to_comment_white.svg",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/build/img/imgIcons/thought_white.svg",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/page-content-dump.php",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/build/img/imgIcons/first_comment_arm_white.svg",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/build/img/imgIcons/first_comment_arm_black.svg",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/build/img/imgIcons/add_comment_black.svg",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/build/img/imgIcons/add_comment_white.svg",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/src/js/sbkh-app.js",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/footer.php",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/src/sass/components/_menu.scss",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/src/js/scripts.js",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/public/src/sass/_mixins.scss",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/public/src/sass/components/_faq.scss",
+		"/Users/qkeave/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/node_modules/paypal-rest-sdk/gh-pages/docs/global.html",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/controllers/about.js",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/setup.js",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/controllers/api.js",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/controllers/user.js",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/controllers/home.js",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/public/css/style.min.css",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/public/src/sass/partials/_header.scss",
+		"/Users/qkeave/Desktop/WEB/WDI-SecretBookofKnowHow/wordpress/wp-content/themes/SBKH/src/sass/_mixins.scss",
+		"/Users/qkeave/Desktop/WEB/Massive Change Network LP/src/js/scripts.js",
+		"/Users/qkeave/Library/Caches/Cleanup At Startup/Transmit/E6D888A5-F8D9-435D-9FAB-D16CACC95048/index.php",
+		"/Users/qkeave/Desktop/WEB/Massive Change Network LP/src/sass/style.scss",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/public/src/sass/fonts/mckl/font.scss",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/public/css/fonts/font.scss",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/node_modules/connect-assets/node_modules/mincer/examples/vendor/bootstrap/less/navbar.less",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/gulpfile.js",
+		"/Users/qkeave/Desktop/WEB/MCKL2.1/public/src/sass/style.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"*.scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'merge-descriptors'",
+			"enquiry",
+			"navigation",
+			"embedly",
+			"keystone.set",
+			"embedly api key",
+			"cloud",
+			"fonts",
+			"logo.svg",
+			"blog",
+			"contact",
+			"col-sm-8.col-md-6",
+			"site.css",
+			" \n",
+			"import",
+			"{\n",
+			"css",
+			"docs",
+			"mark",
+			"node-sass",
+			"underscore",
+			"dotenv",
+			"chapter_money",
+			"mon",
+			"\\",
+			"font",
+			"italic",
+			"options",
+			"*",
+			" =",
+			"typete",
+			"text",
+			"singleline",
+			"italic",
+			"options",
+			"italic",
+			"uppercase",
+			"width",
+			"alig",
+			"align",
+			"size",
+			"multiline",
+			"singleline",
+			"tracking",
+			"trackingoptions",
+			"step",
+			"tracking",
+			"multiline",
+			"size",
+			"weight",
+			"slider",
+			"keys",
+			"Object.keys(obj_weightselection).length,",
+			"	);",
+			"for",
+			"weightselection",
+			"pos",
+			"posit",
+			"weight",
+			"weightselection",
+			"weight",
+			"weightoptions",
+			"log",
+			"obj_weightselection",
+			"weight",
+			"obje",
+			"weightselection",
+			"'",
+			"weight",
+			"typet",
+			"m",
+			"tester",
+			"h2",
+			"subtitle",
+			"h2",
+			"</b><a",
+			" (link)",
+			"[",
+			"parkGh",
+			"http://decoymagazine.ca/wp-content/uploads/2015/06/03GabrielleHillStanleyParkGhost2014ThisLandscapeWillBeRuins_cc.jpg",
+			"http://decoymagazine.ca/wp-content/uploads/2015/06/04Gabrielle-HillStanley-Park-Ghost-Train-2014portrait-of-pauline-johnson.jpg",
+			"http://decoymagazine.ca/wp-content/uploads/2015/06/03GabrielleHillStanleyParkGhost2014ThisLandscapeWillBeRuins_cc.jpg",
+			"03GabrielleHillStanl",
+			"03GabrielleHillStanleyParkGhost2014ThisLandscapeWillBeRuins_cc",
+			"(link)",
+			"(this)",
+			"andrea",
+			"the_content",
+			"portfolio",
+			"100px",
+			"PADDING-BO",
+			"$intro1",
+			"border-bottom",
+			"profile_m",
+			"fa-close",
+			"comment_label",
+			"block",
+			"bookmark",
+			"background-image",
+			"Sm",
+			"Cap",
+			"SmBd",
+			"Sm",
+			"Arno W08 SmText Bold",
+			"Sm",
+			"fa-comment-o",
+			"none",
+			"10px",
+			"margin-bottom",
+			"comments_container",
+			"color-",
+			"100px",
+			"50px",
+			"width",
+			"header",
+			"options",
+			"sidebar_menu",
+			"options",
+			"side",
+			"white",
+			"> div",
+			"-->\n",
+			"profile-na",
+			"profile_m",
+			"fa-cl",
+			"h3",
+			"chapterColor",
+			"profile_m"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"####",
+			"###",
+			"",
+			"singleline",
+			"",
+			" </b><a",
+			"(link)",
+			" (link)",
+			" (this)",
+			"-options",
+			"(contenteditable=\"true\")",
+			"theTester",
+			"tester",
+			"options",
+			"Start typing here...",
+			"",
+			"Comment",
+			"superior",
+			", &.chapter_process_and_time, &.chapter_process_and",
+			"bookBottom",
+			"bookHeight",
+			"bookTop",
+			"scrollAmountBottom",
+			"scrollAmountTop",
+			"scrollAmount",
+			"bottomOfBook",
+			"heightOfBook",
+			"topOfBook",
+			"bookWrapper",
+			"subBook",
+			"h6 ng-if=\"!in_subchapter(sub_chapter)\" class=\"title\" ",
+			" ng-if=\"in_subchapter(sub_chapter)\" class=\"title subsection_title\" ",
+			" ng-if=\"in_subchapter(sub_chapter)\" class=\"title subsection_title\"",
+			"$color-black",
+			" $color-white;",
+			"sans-serif",
+			"<h6 ng-show=\"section.title\">{{section.title}}</h6>",
+			"",
+			"quotation_container",
+			"h4_rant",
+			"",
+			"class=\"page profile\"",
+			"section class=\"winH ",
+			"\"name\":\"comment_section\",\n              \"prefix\":\"\",\n              \"type\":\"true_false\",\n              \"instructions\":\"\",\n              \"required\":0,\n              \"conditional_logic\":0,\n              \"wrapper\":{\n                \"width\":\"\",\n                \"class\":\"\",\n                \"id\":\"\"\n              },\n              \"message\":\"\",\n              \"default_value\":1\n            }, {\n				key: \"field_54d8df20b1f47\",\n				label: \"section_key\",\n				name: \"section_key\",\n				prefix: \"\",\n				type: \"text\",\n				instructions: \"\",\n				required: 0,\n				conditional_logic: 0,\n				wrapper: {\n					width: \"\",\n					class: \"\",\n					id: \"\"\n				},\n				default_value: \"\",\n				placeholder: \"\",\n				prepend: \"\",\n				append: \"\",\n				maxlength: \"\",\n				readonly: 0,\n				disabled: 0\n			}],\n			min: \"\",\n			max: \"\"\n		}, {",
+			"#!/",
+			"a",
+			"<a href=\"\"",
+			"\"",
+			"}\n",
+			"}",
+			" {",
+			"lor-yes",
+			") {",
+			"){",
+			" {",
+			"include m( min,",
+			"include m( max,",
+			"fixType",
+			" {",
+			"<?php if(get_sub_field('overlay')){ ?> overlay<?php } ",
+			"<?php if(get_sub_field('overlay')){ ?> overlay",
+			"<?php if(get_sub_field('image')){ ?> image",
+			"<?php if(get_sub_field('comment_section')){ ?> with_comment<?php } ?>",
+			"\",\"",
+			"cont_content",
+			"quitequinn",
+			"F",
+			"E",
+			"D",
+			"C",
+			"B",
+			"A",
+			"E",
+			"D",
+			"C",
+			"B",
+			"A",
+			"\"Comic Sans MS\"",
+			"image",
+			"",
+			"$c1",
+			"$c2",
+			"$c1",
+			"$c5",
+			"$c6",
+			"url(../../SoundManager2-master/demo/_image/",
+			"../img/",
+			"a_slider",
+			" ",
+			"– <?php the_sub_field('attribution'); ?>",
+			"?>image imageBackground winH<?",
+			"{?>image winH<?}",
+			"image",
+			" * $px",
+			"off-black",
+			") {",
+			"\n\n@font-face{",
+			"media(min,",
+			"href=\"#\"",
+			"}@",
+			"{",
+			"<?php if",
+			"<?php ",
+			"@include media(min,",
+			".utility_nav",
+			".account_links_wrap",
+			".main_nav",
+			".utility_nav",
+			".account_links_wrap",
+			".main_nav",
+			"'",
+			"$fast",
+			"audio",
+			"video",
+			" ",
+			"icon_",
+			"icon-cart-full",
+			"icon-menu",
+			"icon-x-med",
+			"<?if(get_sub_field('nav_section')){?>section<?}?>",
+			"\",\"",
+			"SC",
+			"contenteditable spellcheck=\"false\" ",
+			" ",
+			"",
+			" ",
+			"h5 contenteditable c",
+			"#interior"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "MCKL.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2741,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2403,
+								2404
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"rulers":
+							[
+							],
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 673.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/js/main.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1968,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								754,
+								758
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"rulers":
+							[
+								37.0,
+								37.1,
+								37.2,
+								37.3,
+								37.4,
+								37.5,
+								37.6,
+								37.7,
+								37.8,
+								37.9
+							],
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "models/User.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								2286
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"rulers":
+							[
+							],
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 657.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "models/FAQ.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 824,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"rulers":
+							[
+							],
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1348,
+								1325
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"rulers":
+							[
+							],
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 386.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 927,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								505,
+								278
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Jeremys-MBP-4:MCKL jeremy$ nodemon MCKL",
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"incomplete_sync": null,
+							"rulers":
+							[
+								0.0,
+								0.1,
+								0.2,
+								0.3,
+								0.4,
+								0.5,
+								0.6,
+								0.7,
+								0.8,
+								0.9
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "models/pages.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1605,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								506,
+								506
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"rulers":
+							[
+							],
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "models/Enquiry.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								787,
+								787
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"rulers":
+							[
+								22.0,
+								22.1,
+								22.2,
+								22.3,
+								22.4,
+								22.5,
+								22.6,
+								22.7,
+								22.8,
+								22.9
+							],
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5795,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										123,
+										130
+									],
+									[
+										191,
+										198
+									],
+									[
+										220,
+										227
+									],
+									[
+										303,
+										310
+									],
+									[
+										464,
+										471
+									],
+									[
+										669,
+										676
+									],
+									[
+										789,
+										796
+									],
+									[
+										928,
+										935
+									],
+									[
+										1088,
+										1095
+									],
+									[
+										1293,
+										1300
+									],
+									[
+										1443,
+										1450
+									],
+									[
+										1472,
+										1479
+									],
+									[
+										1481,
+										1488
+									],
+									[
+										1553,
+										1560
+									],
+									[
+										1596,
+										1603
+									],
+									[
+										1635,
+										1642
+									],
+									[
+										1667,
+										1674
+									],
+									[
+										1805,
+										1812
+									],
+									[
+										1848,
+										1855
+									],
+									[
+										1932,
+										1939
+									],
+									[
+										1972,
+										1979
+									],
+									[
+										2078,
+										2085
+									],
+									[
+										2103,
+										2110
+									],
+									[
+										2140,
+										2147
+									],
+									[
+										2154,
+										2161
+									],
+									[
+										2302,
+										2309
+									],
+									[
+										2357,
+										2364
+									],
+									[
+										2472,
+										2479
+									],
+									[
+										2484,
+										2491
+									],
+									[
+										2503,
+										2510
+									],
+									[
+										2679,
+										2686
+									],
+									[
+										2704,
+										2711
+									],
+									[
+										2857,
+										2864
+									],
+									[
+										2872,
+										2879
+									],
+									[
+										2887,
+										2894
+									],
+									[
+										2999,
+										3006
+									],
+									[
+										3071,
+										3078
+									],
+									[
+										3190,
+										3197
+									],
+									[
+										3204,
+										3211
+									],
+									[
+										3244,
+										3251
+									],
+									[
+										3390,
+										3397
+									],
+									[
+										3474,
+										3481
+									],
+									[
+										3619,
+										3626
+									],
+									[
+										3841,
+										3848
+									],
+									[
+										3892,
+										3899
+									],
+									[
+										3913,
+										3920
+									],
+									[
+										3969,
+										3976
+									],
+									[
+										4010,
+										4017
+									],
+									[
+										4051,
+										4058
+									],
+									[
+										4072,
+										4079
+									],
+									[
+										4115,
+										4122
+									],
+									[
+										4160,
+										4167
+									],
+									[
+										4178,
+										4185
+									],
+									[
+										4210,
+										4217
+									],
+									[
+										4231,
+										4238
+									],
+									[
+										4271,
+										4278
+									],
+									[
+										4317,
+										4324
+									],
+									[
+										4343,
+										4350
+									],
+									[
+										4351,
+										4358
+									],
+									[
+										4388,
+										4395
+									],
+									[
+										4398,
+										4405
+									],
+									[
+										4431,
+										4438
+									],
+									[
+										4471,
+										4478
+									],
+									[
+										4521,
+										4528
+									],
+									[
+										4616,
+										4623
+									],
+									[
+										4785,
+										4792
+									],
+									[
+										5043,
+										5050
+									],
+									[
+										5156,
+										5163
+									],
+									[
+										5254,
+										5261
+									],
+									[
+										5325,
+										5332
+									],
+									[
+										5635,
+										5654
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								5645,
+								5645
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"detect_indentation": false,
+							"incomplete_sync": null,
+							"line_numbers": false,
+							"output_tag": 2,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"rulers":
+							[
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2688.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "routes/emails.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1071,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								572,
+								572
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"rulers":
+							[
+							],
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "models/Logo.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								471,
+								512
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"rulers":
+							[
+							],
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "models/News.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 929,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								929
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"rulers":
+							[
+							],
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "models/NewsCategory.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								358
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"rulers":
+							[
+							],
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mckl.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"fonts",
+				"templates/views/fonts.jade"
+			],
+			[
+				"news",
+				"templates/views/news.jade"
+			],
+			[
+				"new",
+				"routes/views/news.js"
+			],
+			[
+				"heade",
+				"templates/partials/header.jade"
+			],
+			[
+				"drop",
+				"wordpress/wp-content/themes/SBKH/src/sass/components/_dropin.scss"
+			],
+			[
+				"readm",
+				"README.md"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"func",
+				"functions.php"
+			],
+			[
+				"hea",
+				"header.php"
+			],
+			[
+				"menu",
+				"menu.php"
+			],
+			[
+				"profile",
+				"src/sass/components/_profile.scss"
+			],
+			[
+				"comments",
+				"src/sass/components/_comments.scss"
+			],
+			[
+				"section_black_sm",
+				"build/img/imgIcons/section_black_SM.svg"
+			],
+			[
+				"glob",
+				"src/sass/components/_global.scss"
+			],
+			[
+				"inline",
+				"html-templates/inline-comments.html"
+			],
+			[
+				"scrip",
+				"src/js/scripts.js"
+			],
+			[
+				"app",
+				"src/js/sbkh-app.js"
+			],
+			[
+				"men",
+				"menu.php"
+			],
+			[
+				"function",
+				"functions.php"
+			],
+			[
+				"contradiction",
+				"html-templates/h3_contradiction.html"
+			],
+			[
+				"para",
+				"html-templates/paragraph.html"
+			],
+			[
+				"contra",
+				"html-templates/h3_contradiction.html"
+			],
+			[
+				"comment",
+				"src/sass/components/_comments.scss"
+			],
+			[
+				"secr",
+				"config/secrets.js"
+			],
+			[
+				"confi",
+				"src/sass/_config.scss"
+			],
+			[
+				"config",
+				"src/sass/_config.scss"
+			],
+			[
+				"fontst",
+				"views/partials/fontStyles.jade"
+			],
+			[
+				"",
+				"views/partials/fontFeatures.jade"
+			],
+			[
+				"style",
+				"public/src/sass/style.scss"
+			],
+			[
+				"globa",
+				"public/src/sass/components/_global.scss"
+			],
+			[
+				"typo",
+				"public/src/sass/components/_typography.scss"
+			],
+			[
+				"helper",
+				"public/src/sass/utils/_helper_mixins.scss"
+			],
+			[
+				"footer",
+				"views/partials/footer.jade"
+			],
+			[
+				"header",
+				"views/partials/header.jade"
+			],
+			[
+				"global",
+				"public/src/sass/components/_global.scss"
+			],
+			[
+				"home",
+				"views/home.jade"
+			],
+			[
+				"layou",
+				"views/layout.jade"
+			],
+			[
+				"lay",
+				"views/layout.jade"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"range",
+				"vendor/rangeslider/rangeslider.js"
+			],
+			[
+				"droip",
+				"src/sass/components/_dropin.scss"
+			],
+			[
+				"drops",
+				"src/sass/components/_dropin.scss"
+			],
+			[
+				"_comment",
+				"src/sass/components/_comments.scss"
+			],
+			[
+				"scss",
+				"src/sass/components/_menu.scss"
+			],
+			[
+				"scri",
+				"src/js/scripts.js"
+			],
+			[
+				"comments.ht",
+				"html-templates/inline-comments.html"
+			],
+			[
+				"mixin.scs",
+				"public/src/sass/_mixins.scss"
+			],
+			[
+				"f",
+				"views/faq.jade"
+			],
+			[
+				"over",
+				"src/sass/components/_overrides.scss"
+			],
+			[
+				"mixin.s",
+				"public/src/sass/_mixins.scss"
+			],
+			[
+				"global.scs",
+				"public/src/sass/components/_global.scss"
+			],
+			[
+				"mixin.scss",
+				"public/src/sass/_mixins.scss"
+			],
+			[
+				"global.s",
+				"public/src/sass/components/_global.scss"
+			],
+			[
+				"nav",
+				"node_modules/connect-assets/node_modules/mincer/examples/vendor/bootstrap/less/navbar.less"
+			],
+			[
+				"config.scs",
+				"public/src/sass/_config.scss"
+			],
+			[
+				"mixins.s",
+				"public/src/sass/_mixins.scss"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"boot",
+				"public/src/sass/vendor/bootstrap.scss"
+			],
+			[
+				"helperm",
+				"public/src/sass/utils/_helper_mixins.scss"
+			],
+			[
+				"mixin.sc",
+				"public/src/sass/_mixins.scss"
+			],
+			[
+				"style.scs",
+				"public/src/sass/style.scss"
+			],
+			[
+				"express.s",
+				"public/src/sass/_express.scss"
+			],
+			[
+				"boots",
+				"public/css/bootstrap-social.css"
+			],
+			[
+				"express.scss",
+				"public/src/sass/_express.scss"
+			],
+			[
+				"all",
+				"html-templates/all-comments.html"
+			],
+			[
+				"comme",
+				"comments.php"
+			],
+			[
+				"horiz",
+				"html-templates/sbkh_horizontal_index.html"
+			],
+			[
+				"subch",
+				"html-templates/subchapter.html"
+			],
+			[
+				"src/scr",
+				"src/js/scripts.js"
+			],
+			[
+				"app.js",
+				"app.js"
+			],
+			[
+				"animat",
+				"public/css/theme/utils/_animations.scss"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"helper_mi",
+				"public/css/theme/utils/_helper_mixins.scss"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"variables",
+				"public/css/theme/colors/_variables.scss"
+			],
+			[
+				"config.scss",
+				"public/css/theme/_config.scss"
+			],
+			[
+				"main",
+				"public/css/main.scss"
+			],
+			[
+				"pass",
+				"config/passport.js"
+			],
+			[
+				"layout",
+				"views/layout.jade"
+			],
+			[
+				"styles.less",
+				"node_modules/connect-assets/node_modules/mincer/test/fixtures/less_engine/stylesheet.css.less"
+			],
+			[
+				"con",
+				"src/sass/_config.scss"
+			],
+			[
+				"sub",
+				"html-templates/subchapter.html"
+			],
+			[
+				"h2",
+				"html-templates/h2.html"
+			],
+			[
+				"quot",
+				"html-templates/quotation.html"
+			],
+			[
+				"audio",
+				"html-templates/audio.html"
+			],
+			[
+				"script",
+				"src/js/scripts.js"
+			],
+			[
+				"h1",
+				"html-templates/h1.html"
+			],
+			[
+				"pic",
+				"html-templates/picture.html"
+			],
+			[
+				"spla",
+				"splash.php"
+			],
+			[
+				"spl",
+				"splash.php"
+			],
+			[
+				"subc",
+				"html-templates/subchapter.html"
+			],
+			[
+				"ove",
+				"src/sass/components/_overrides.scss"
+			],
+			[
+				"funct",
+				"functions.php"
+			],
+			[
+				"s",
+				"src/js/scripts.js"
+			],
+			[
+				"splash",
+				"splash.php"
+			],
+			[
+				"quo",
+				"html-templates/quotation.html"
+			],
+			[
+				"loader",
+				"src/sass/components/_loader.scss"
+			],
+			[
+				"page",
+				"page.php"
+			],
+			[
+				"scr",
+				"src/js/scripts.js"
+			],
+			[
+				"basic",
+				"client/views/layouts/basic.html"
+			],
+			[
+				"p",
+				"html-templates/paragraph.html"
+			],
+			[
+				"scssmen",
+				"src/sass/components/_menu.scss"
+			],
+			[
+				"typ",
+				"src/sass/components/_typography.scss"
+			],
+			[
+				"mixin",
+				"src/sass/_mixins.scss"
+			],
+			[
+				"app.ja",
+				"build/js/jplayer/popcorn.jplayer.min.js"
+			],
+			[
+				"mail",
+				"src/sass/components/_mail.scss"
+			],
+			[
+				"srcmain",
+				"src/js/main/main.js"
+			],
+			[
+				"side",
+				"sideNav.php"
+			],
+			[
+				"foote",
+				"footer.php"
+			],
+			[
+				"future",
+				"future.php"
+			],
+			[
+				"ap",
+				"appendix.php"
+			],
+			[
+				"profil",
+				"src/sass/components/_profile.scss"
+			],
+			[
+				"scsstypo",
+				"src/sass/components/_typography.scss"
+			],
+			[
+				"ty",
+				"docs/typography.html"
+			],
+			[
+				"inno",
+				"innovation.php"
+			],
+			[
+				"clean",
+				"clean.php"
+			],
+			[
+				"futu",
+				"future.php"
+			],
+			[
+				"load",
+				"src/sass/components/_loader.scss"
+			],
+			[
+				"svg",
+				"lock.svg"
+			],
+			[
+				"app.",
+				"src/js/sbkh-app.js"
+			],
+			[
+				"mixi",
+				"src/sass/_mixins.scss"
+			],
+			[
+				"h3_s",
+				"html-templates/h3_sans.html"
+			],
+			[
+				"menu.sc",
+				"wordpress/wp-content/themes/SBKH/src/sass/components/_menu.scss"
+			],
+			[
+				"comments.s",
+				"wordpress/wp-content/themes/SBKH/src/sass/components/_comments.scss"
+			],
+			[
+				"game",
+				"wordpress/wp-content/themes/SBKH/sbkh_game.php"
+			],
+			[
+				"se",
+				"example/settings.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
